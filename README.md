@@ -1,6 +1,6 @@
 # bloc_test
 
-A new Flutter project.
+A Flutter project with _GET API_ and _POST API_ and _BLoC design pattern_
 
 ## Getting Started
 
